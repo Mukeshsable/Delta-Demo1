@@ -2,9 +2,9 @@
 This is a demo for Git&amp;Github class.
 
 # Teacher
-Shradha khapra
+Shradha khapra.
 
 # Student 
- Delta Student
+ Delta Student.
 
  
